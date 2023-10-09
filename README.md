@@ -6,6 +6,12 @@ Plugin|OJS|OMP|Summary
 |[relationalDoi](https://github.com/danielsf93/relationalDoi)|:ok:|-|When an article has unique DOI's registered in its files (compositions), with this plugin it is possible to display these DOI's on the article page itself. First, you need to assign a DOI to your composition in the Workflow and Publishing area. Once published, the article page will present a button that shows the DOI's of the related files of the article.
 |[pdfUrl](https://github.com/danielsf93/pdfUrl)|:ok:|-|A ojs plugin that fix the URL from the Template for better Indexing in google, based on the language of the article.
 |[youtubeBlock](https://github.com/danielsf93/youtubeBlock)|:ok:|-|Plugin to fix Youtube video on the journal page.
+|[catalogSearchPage](https://github.com/danielsf93/catalogSearchPage)|-|:ok:|An OMP plugin that adds a "Catalog Page" providing a tabular, searchable and sortable list view.
+|[copyrightSearchPage](https://github.com/danielsf93/copyrightSearchPage)|-|:ok:|Cria uma página com link fixo, onde demonstra livros publicados de uma faculdade específica, pelo coyright.
+
+|[languageToggle](https://github.com/danielsf93/languageToggle)|:ok:|:ok:|OJS 3.3.0.13 and OMP 3.3.0.8 plugin for changing language with country flags.
+
+|[languageToggle](https://github.com/danielsf93/languageToggle)|:ok:|:ok:|OJS 3.3.0.13 and OMP 3.3.0.8 plugin for changing language with country flags.
 
 |[languageToggle](https://github.com/danielsf93/languageToggle)|:ok:|:ok:|OJS 3.3.0.13 and OMP 3.3.0.8 plugin for changing language with country flags.
 
